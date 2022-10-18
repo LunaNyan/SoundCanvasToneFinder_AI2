@@ -1,0 +1,1262 @@
+1,0,Piano 1
+1,1,UprightPiano
+1,2,Mild Piano
+1,8,Uprihgt Pw
+1,9,Mild Piano w
+1,16,European Pf
+1,24,Piano + Str.
+1,25,Piano + Str2
+1,26,Piano+Choir1
+1,27,Piano+Choir2
+2,0,Piano 2
+2,1,Pop Piano
+2,2,Rock Piano
+2,8,Pop Piano w
+2,9,Rock Piano w
+2,16,Dance Piano
+3,0,Piano 3
+3,1,EG+Rhodes 1
+3,2,EG+Rhodes 2
+3,8,Piano 3w
+4,0,Honky-tonk
+4,8,Honky-tonk 2
+5,0,E.Piano 1
+5,8,St.Soft EP
+5,9,Cho. E.Piano
+5,10,SilentRhodes
+5,16,FM+SA EP
+5,17,Dist E.Piano
+5,24,Wurly
+5,25,Hard Rhodes
+5,26,MellowRhodes
+6,0,E.Paino 2
+6,1,E.Paino 3
+6,8,Detuned EP 2
+6,9,Detuned EP 3
+6,10,EP Legend
+6,16,St.FM EP
+6,24,Hard FM EP
+6,32,EP Phase
+7,0,Harpsichord
+7,1,Harpsichord2
+7,2,Harpsichord3
+7,8,Coupled Hps.
+7,16,Harpsi.w
+7,24,Harpsi.o
+7,32,Synth Harpsi
+8,0,Clav.
+8,1,Clav. 2
+8,2,Atk Clav.1
+8,3,Atk Clav.2
+8,8,Comp Clav.
+8,16,Reso Clav.
+8,17,Phase Clav.
+8,24,Clav.o
+8,32,Analog Clav.
+8,33,JP8 Clav.1
+8,35,JP8 Clav.2
+8,36,SynRingClav.
+8,37,SynDistClav.
+8,38,JP8000 Clav.
+8,39,Pulse Clav.
+9,0,Celesta
+9,1,Pop Celesta
+10,0,Glockenspiel
+11,0,Music Box
+11,1,Music Box 2
+11,8,St.Music Box
+12,0,Vibraphone
+12,1,Pop Vibe.
+12,8,Vibraphone w
+12,9,Vibraphones
+13,0,Marimba
+13,8,Marimba w
+13,16,Barafon
+13,17,Barafon 2
+13,24,Log drum
+14,0,Xylophone
+14,8,Xylophone w
+15,0,Tubular-bell
+15,8,Church Bell
+15,9,Carillon
+15,10,Church Bell2
+15,16,Tubularbellw
+16,0,Santur
+16,1,Santur 2
+16,2,Santur 3
+16,8,Cimbalom
+16,16,Zither 1
+16,17,Zither 2
+16,24,Dulcimer
+17,0,Organ 1
+17,1,Organ 101
+17,2,Ful Organ 1
+17,3,Ful Organ 2
+17,4,Ful Organ 3
+17,5,Ful Organ 4
+17,6,Ful Organ 5
+17,7,Ful Organ 6
+17,8,Trem. Organ
+17,8,DetunedOr.1
+17,9,Organ o
+17,10,Ful Organ 7
+17,11,Ful Organ 8
+17,12,Ful Organ 9
+17,16,60's Organ 1
+17,17,60's Organ 2
+17,18,60's Organ 3
+17,19,Farf Organ
+17,24,Cheese Organ
+17,25,D-50 Organ
+17,26,JUNO Organ
+17,27,Hybrid Organ
+17,28,VS Organ
+17,29,Digi Church
+17,30,JX8 Organ
+17,31,FM Organ
+17,32,70's E.Organ
+17,33,Even Bar
+17,40,Organ Bass
+17,48,5th Organ
+18,0,Organ 2
+18,1,Jazz Organ
+18,2,E.Organ 16+2
+18,3,Jazz Organ 2
+18,4,Jazz Organ 3
+18,5,Jazz Organ 4
+18,6,Jazz Organ 5
+18,7,Jazz Organ 6
+18,8,Chorus Or.2
+18,9,Octave Organ
+18,32,Perc. Organ
+18,33,Perc.Organ 2
+18,34,Perc.Organ 3
+18,35,Perc.Organ 4
+19,0,Organ 3
+19,8,Rotary Org.
+19,16,Rotary Org.S
+19,17,Rock Organ 1
+19,18,Rock Organ 2
+19,24,Rotary Org.F
+20,0,Church Org.1
+20,8,Church Org.2
+20,16,Church Org.3
+20,24,Organ Flute
+20,32,Trem.Flute
+20,33,Theater Org.
+21,0,Reed Organ
+21,8,Wind Organ
+21,16,Puff Organ
+22,0,Accordion Fr
+22,8,Accordion It
+22,9,Dist. Accord
+22,16,Cho. Accord
+22,24,Hard Accord
+22,25,Soft Accord
+23,0,Harmonica
+23,1,Harmonica 2
+23,8,B.Harp Basic
+23,9,B.Harp Suppl
+24,0,Bandoneon
+24,8,Bandoneon 2
+24,16,Bandoneon 3
+25,0,Nylon-str.Gt
+25,8,Ukulele
+25,16,Nylon Gt.o
+25,24,Velo Harmnix
+25,32,Nylon Gt.2
+25,40,Lequint Gt.
+26,0,Steel-str.Gt
+26,8,12-str.Gt
+26,9,Nylon+Steel
+26,10,Atk Steel Gt
+26,16,Mandolin
+26,17,Mandolin 2
+26,18,MandolinTrem
+26,32,Steel Gt.2
+26,33,Steel + Body
+27,0,Jazz Gt.
+27,1,Mellow Gt.
+27,8,Pedal Steel
+28,0,Clean Gt.
+28,1,Clean Half
+28,2,Open Hard 1
+28,3,Open Hard 2
+28,4,JC Clean Gt.
+28,5,Atk CleanGt.
+28,8,Chorus Gt.
+28,9,JC Chorus Gt
+28,16,TC FrontPick
+28,17,TC Rear Pick
+28,18,TC Clean ff
+28,19,TC Clean 2:
+28,20,LP Rear Pick
+28,21,LP Rear 2
+28,22,LP RearAtack
+28,23,Mid Tone GTR
+28,24,Chung Ruan
+28,25,Chung Ruan 2
+29,0,Muted Gt.
+29,1,Muted Dis.Gt
+29,2,TC Muted Gt.
+29,8,Funk Pop
+29,16,Funk Gt.2
+29,24,Jazz Man
+30,0,Overdrive Gt
+30,1,Overdrive 2
+30,2,Overdrive 3
+30,3,More Drive
+30,4,Guitar Pinch
+30,5,Attack Drive
+30,8,LP OverDrvGt
+30,9,LP OverDrv:
+30,10,LP Harf DRV
+30,11,LP Harf DRV2
+30,12,LP Chorus
+31,0,DistortionGt
+31,1,Dist. Gt2 :
+31,2,Dazed Guitar
+31,3,Distortion:
+31,4,Dist.Fast :
+31,5,Attack Dist
+31,8,Feedback Gt.
+31,9,Feedback Gt2
+31,16,Power Guitar
+31,17,Power Gt.2
+31,18,5th Dist.
+31,24,Rock Rhythm
+31,25,Rock Rhythm2
+31,26,Dist Rtm GTR
+32,0,Gt.Harmonics
+32,8,Gt. Feedback
+32,9,Gt.Feedback2
+32,16,Ac.Gt.Harmnx
+32,24,E.Bass Harm.
+33,0,Acoustic Bs.
+33,1,Rockabilly
+33,8,Wild A.Bass
+33,9,Atk A.Bass
+33,16,Bass + OHH
+34,0,Fingered Bs.
+34,1,Fingered Bs2
+34,2,Jazz Bass
+34,3,Jazz Bass 2
+34,4,Rock Bass
+34,5,Heart Bass
+34,6,AttackFinger
+34,7,Finger Slap
+34,8,ChorusJazzBs
+34,16,F.Bass/Harm.
+35,0,Picked Bass
+35,1,Picked Bass2
+35,2,Picked Bass3
+35,3,Picked Bass4
+35,4,Double
+35,8,MutePickBs.
+35,16,P.Bass/Harm.
+36,0,Fretless Bs.
+36,1,Fretless Bs2
+36,2,Fretless Bs3
+36,3,Fretless Bs4
+36,4,Syn Fretless
+36,5,Mr.Smooth
+36,8,Wood+FlessBs
+37,0,Slap Bass 1
+37,1,Slap Pop
+37,8,Reso Slap
+37,9,Unison Slap
+38,0,Slap Bass 2
+38,1,Slap Bass 3
+38,8,FM Slap
+39,0,Synth Bass 1
+39,1,SynthBass101
+39,2,CS Bass
+39,3,JP-4 Bass
+39,4,JP-8 Bass
+39,5,P5 Bass
+39,6,JPMG Bass
+39,8,Acid Bass
+39,9,TB303 Bass
+39,10,Tekno Bass
+39,11,TB303 Bass 2
+39,12,Kicked TB303
+39,13,TB303 Saw Bs
+39,14,Rubber303 Bs
+39,15,Reso 303 Bs
+39,16,Reso SH Bass
+39,17,TB303 Sqr Bs
+39,18,TB303 DistBs
+39,19,Clavi Bass
+39,20,Hammer
+39,21,Jungle Bass
+39,22,Square Bass
+39,23,Square Bass2
+39,24,Arpeggio Bs
+39,32,Hit&Saw Bass
+39,33,Ring Bass
+39,34,AtkSineBass
+39,35,OB sine Bass
+39,36,Auxiliary Ba
+39,40,303SqDistBs
+39,41,303SqDistBs2
+39,42,303SqDistBs3
+39,43,303Sqr.Rev
+39,44,TeeBee
+40,0,Synth Bass 2
+40,1,SynthBass201
+40,2,Modular Bass
+40,3,Seq Bass
+40,4,MG Bass
+40,5,Mg Oct Bass1
+40,6,MG Oct Bass2
+40,7,MG Blip Bs:
+40,8,Beef FM Bass
+40,9,Dly Bass
+40,10,X Wire Bass
+40,11,WireStr Bass
+40,12,Blip Bass :
+40,13,RubberBass 1
+40,14,Syn Bell Bs
+40,15,Odd Bass
+40,16,RubberBass 2
+40,17,SH101 Bass 1
+40,18,SH101 Bass 2
+40,19,Smooth Bass
+40,20,SH101 Bass 3
+40,21,Spike Bass
+40,22,House Bass:
+40,23,KG Bass
+40,24,Sync Bass
+40,25,MG 5th Bass
+40,26,RND Bass
+40,27,WowMG Bass
+40,28,Bubble Bass
+40,29,Attack Pulse
+40,30,Sync Bass 2
+40,31,Pulse Mix Bs
+40,32,MG Dist Bass
+40,33,Seq Bass 2
+40,34,3rd Bass
+40,35,MG Oct Bass
+40,36,SolwEnvBass
+40,37,Mild Bass
+40,38,DistEnvBass
+40,39,MG LightBass
+40,40,DistSynBass
+40,41,Rise Bass
+40,42,Cyber Bass
+41,0,Violin    :
+41,1,Violin Atk:
+41,8,Slow Violin
+42,0,Viola     :
+42,1,Viola Atk.:
+43,0,Cello     :
+43,1,Cello Atk.:
+44,0,Contrabass
+45,0,Tremolo Str
+45,0,Trem Str.St.
+45,8,Slow Tremolo
+45,9,Suspense Str
+45,10,SuspenseStr2
+46,0,PizzicatoStr
+46,1,Vcs&Cbs Pizz
+46,2,Chamber Pizz
+46,3,St.Pizzicato
+46,8,Solo Pizz.
+46,16,Solo Spic.
+46,17,StringsSpic.
+47,0,Harp
+47,1,Harp&Strings
+47,2,Harp St.
+47,3,Uiilean Harp
+47,16,Synth Harp
+47,24,Yang Qin
+47,25,Yang Qin 2
+47,26,SynthYangQin
+48,0,Timpani
+49,0,Strings
+49,1,Bright Str:
+49,2,ChamberStr:
+49,3,Cello sect.
+49,4,Bright Str.2
+49,5,Bright Str.3
+49,6,Quad Strings
+49,7,Mild Strings
+49,8,Orchestra
+49,9,Orchestra 2
+49,10,Tremolo Orch
+49,11,Choir Str.
+49,12,Strings+Horn
+49,13,Str.+Flute
+49,14,Choir Str.
+49,15,Choir Str.2
+49,16,St. Strings
+49,17,St.Strings 2
+49,18,St.Strings 3
+49,19,Orchestra 3
+49,20,Orchestra 4
+49,24,Velo Strings
+49,32,Oct Strings1
+49,33,Oct Strings2
+49,34,ContraBsSect
+49,40,60s Strings
+50,0,Slow Strings
+50,1,SlowStrings2
+50,2,SlowStrings3
+50,8,Legato Str.
+50,9,Warm Strings
+50,10,St.Slow Str.
+50,11,St.Slow Str2
+50,12,S.Str+Choir
+50,13,S.Str+Choir2
+51,0,Syn.Strings1
+51,1,OB Strings
+51,2,StackStrings
+51,3,JP Strings
+51,4,Chorus Str.
+51,8,Syn.Strings3
+51,9,Syn.Strings4
+51,10,Syn.Strings6
+51,11,Syn.Strings7
+51,12,LoFi Strings
+51,16,High Strings
+51,17,Hybrid Str.
+51,24,Tron Strings
+51,25,Noiz Strings
+52,0,Syn.Strings2
+52,1,Syn.Strings5
+52,2,JUNO Strings
+52,3,FiteredOrch
+52,4,JP Saw Str.
+52,5,Hybrid Str.2
+52,6,Dist.Strings
+52,7,JUNOFullStr.
+52,8,Air Strings
+52,9,Atk Syn Str.
+52,10,StraightStr.
+53,0,Choir Aahs
+53,8,St.ChoirAahs
+53,9,Melted Choir
+53,10,Church Choir
+53,11,Boys Choir 1
+53,12,Boys Choir 2
+53,13,St.BoysChoir
+53,14,Rich Choir
+53,16,Choir Hahs
+53,24,Chorus Lahs
+53,32,Chorus Aahs
+53,33,Male Aah+Str
+54,0,Voice Oohs
+54,1,Chorus Oohs
+54,2,Voice Oohs 2
+54,3,Chorus Oohs2
+54,4,OohsCodemaj7
+54,5,OohsCodeSus4
+54,6,Jazz Scat
+54,8,Voice Dahs
+54,9,JzVoice Dat
+54,10,JzVoice Bop
+54,11,JzVoice Doun
+54,12,JzVoice Trum
+54,16,VoiceLah Fem
+54,17,ChorusLahFem
+54,18,VoiceLau Fem
+54,19,ChorusLauFem
+54,20,VoiceLan Fem
+54,21,ChorusLanFem
+54,22,VoiceAah Fem
+54,23,VoiceUuh Fem
+54,24,Fem Lah&Lan
+54,32,VoicWah Mal
+54,33,ChorusWahMal
+54,34,VoicWoh Mal
+54,35,ChorusWohMal
+54,36,VoicAah Mal
+54,37,VoicOoh Mal
+54,40,Humming
+55,0,SynVox
+55,1,SynVox 2
+55,2,SynVox 3
+55,8,Syn.Voice
+55,10,Syn.Voice 2
+55,16,VP330 Choir
+55,17,Vinyl Choir
+55,18,JX8P Vox
+55,19,Analog Voice
+56,0,OrchestraHit
+56,1,Orch. Hit
+56,2,Orch. Hit
+56,3,Orch. Hit
+56,8,Impact Hit
+56,9,Philly Hit
+56,10,Double Hit
+56,11,Perc. Hit
+56,12,Shock Wave
+56,13,Orch. Hit
+56,14,Orch. Hit
+56,15,Orch. Hit
+56,16,Lo Fi Rave
+56,17,Techno Hit
+56,18,Dist. Hit
+56,19,Bam Hit
+56,20,Bit Hit
+56,21,Bim Hit
+56,22,Technorg Hit
+56,23,Rave Hit
+56,24,Strings Hit
+56,25,Stack Hit
+56,26,Indusry Hit
+56,27,Clap Hit
+57,0,Trumpet
+57,1,Trumpet 2
+57,2,Trumpet   :
+57,3,Dark Trumpet
+57,4,Trumpet & Nz
+57,8,Flugel Horn
+57,16,4th Trumpets
+57,24,Bright Tp.
+57,25,Warm Tp.
+57,26,Warm Tp.2
+57,27,Twin Tp.
+57,32,Syn. Trumpet
+58,0,Trombone
+58,1,Trombone 2
+58,2,Twin bones
+58,3,Bones & Tuba
+58,4,Bright Tb
+58,8,Bs. Trombone
+58,16,Euphonium
+59,0,Tuba
+59,1,Tuba 2
+59,8,Tuba + Horn
+60,0,MutedTrumpet
+60,1,Cup Mute Tb
+60,2,MmuteTrumpet2
+60,3,MutedTrumpet3
+60,8,Muted Horns
+61,0,French Horns
+61,1,Fr.Horn 2
+61,2,Horn + Orche
+61,3,Wide FreHrns
+61,8,F.Hrn Slow:
+61,9,Dual Horns
+61,16,Synth Horn
+61,24,F.Horn Rip
+62,0,Brass 1
+62,1,Brass ff
+62,2,Bones Sect.
+62,3,St. Brass ff
+62,4,Quad Brass1
+62,5,Quad Brass2
+62,8,Brass 2
+62,9,Brass 3
+62,10,Brass sfz
+62,12,Brass sfz 2
+62,14,FatPop Brass
+62,16,Brass Fall
+62,17,Trumpet Fall
+62,24,Octave Brass
+62,25,Brass + Reed
+62,26,Fat + Reed
+62,32,Orch Brass
+62,33,Orch Brass 2
+62,35,St.FatPopBrs
+62,36,St.Orch Brs
+62,37,St.Orch Brs2
+62,38,St.Orch Brs3
+63,0,Synth Brass1
+63,1,JUNO Brass
+63,2,Stack Brass
+63,3,SH-5 Brass
+63,4,MKS Brass
+63,5,Jump Brass
+63,8,Pro Brass
+63,9,P5 Brass
+63,10,OrchSynBrass
+63,16,Oct SynBrass
+63,17,Hybrid Brass
+63,18,OctSynBrass2
+63,19,BPF Brass
+64,0,Synth Brass2
+64,1,Soft Brass
+64,2,Warm Brass
+64,3,Synth Brass3
+64,4,Sync Brass
+64,5,Fat SynBrass
+64,6,DeepSynBrass
+64,8,SynBrass sfz
+64,9,OB Brass
+64,10,Reso Brass
+64,11,DistSqrBrass
+64,12,JP8000SawBrs
+64,16,Velo Brass 1
+64,17,Transbrass
+65,0,Soprano Sax
+65,8,Soprano Exp.
+66,0,Alto Sax
+66,8,AltoSax Exp.
+66,9,Grow Sax
+66,16,AltoSax + Tp
+66,17,Sax Section
+67,0,Tenor Sax
+67,1,Tenor Sax :
+67,8,BreathyTn.:
+67,9,St.Tenor Sax
+68,0,Baritone Sax
+68,1,Bari. Sax :
+68,8,Bari & Tenor
+69,0,Oboe
+69,8,Oboe Exp.
+69,16,Multi Reed
+70,0,English Horn
+71,0,Bassoon
+72,0,Clarinet
+72,8,Bs Clarinet
+72,16,Multi Wind
+72,17,Quad Wind
+73,0,Piccolo
+73,1,Piccolo   :
+73,8,Nay
+73,9,Nay Tremolo
+73,16,Di
+74,0,Flute
+74,1,Flute 2   :
+74,2,Flute Exp.
+74,3,Flt Travelso
+74,8,Flute + Vln
+74,9,Pipe & Reed
+74,16,Tron Flute
+74,17,Indian Flute
+75,0,Recorder
+76,0,Pan Flute
+76,8,Kawala
+76,16,Zampona
+76,17,Zampona Atk
+76,24,Tin Whistle
+76,25,TinWhtsle Nm
+76,26,TinWhtsle Or
+77,0,Bottle Blow
+78,0,Shakuhachi
+78,1,Shakuhachi:
+79,0,Whistle
+79,1,Whistle 2
+80,0,Ocarina
+81,0,Square Wave
+81,1,MG Square
+81,2,Hollow Mini
+81,3,Mellow FM
+81,4,CC Solo
+81,5,Shmoog
+81,6,LM Square
+81,7,JP8000 TWM
+81,8,2600 Sine
+81,9,Sine Lead
+81,10,KG Lead
+81,11,Twin Sine
+81,16,P5 Square
+81,17,OB Square
+81,18,JP-8 Square
+81,19,Dist Square
+81,20,303SqareDst1
+81,21,303SqareDst2
+81,22,303 Mix Sqr
+81,23,Dual Sqr&Saw
+81,24,Pulse Lead
+81,25,JP8 PulseLd1
+81,26,JP8 PulseLd2
+81,27,MG Reso. Pls
+81,28,JP8 PulseLd3
+81,29,260RingLead
+81,30,303DistLead
+81,31,JP8000DistLd
+81,32,HipHop SinLd
+81,33,HipHop SqrLd
+81,34,HipHop PlsLd
+81,35,Flux Pulse
+82,0,Saw Wave
+82,1,OB2 Saw
+82,2,Pulse Saw
+82,3,Feline GR
+82,4,Big Lead
+82,5,Velo Lead
+82,6,GR-300
+82,7,LA Saw
+82,8,Doctor Solo
+82,9,Fat Saw Lead
+82,10,JP8000 Saw
+82,11,D-50 Fat Saw
+82,12,OB DoubleSaw
+82,13,JP DoubleSaw
+82,14,FatSawLead 2
+82,15,JP SuperSaw
+82,16,Waspy Synth
+82,17,PM Lead
+82,18,CS Saw Lead
+82,24,MG Saw 1
+82,25,MG Saw 2
+82,26,OB Saw 1
+82,27,OB Saw 2
+82,28,D-50 Saw
+82,29,SH-101 Saw
+82,30,CS Saw
+82,31,MG Saw Lead
+82,32,OB Saw Lead
+82,33,P5 Saw Lead
+82,34,MG unison
+82,35,Oct Saw Lead
+82,36,Natural Lead
+82,40,SequenceSaw1
+82,41,SequenceSaw2
+82,42,Reso Saw
+82,43,Cheese Saw 1
+82,44,Cheese Saw 2
+82,45,Rhythmic Saw
+82,46,SequencedSaw
+82,47,Techno Saw
+83,0,Syn.Calliope
+83,1,Vent Synth
+83,2,Pure PanLead
+83,8,LM Pure Lead
+83,9,LM Blow Lead
+84,0,Chiffer Lead
+84,1,TB Lead
+84,2,Hybrid Lead
+84,3,Unison SqrLd
+84,4,FatSolo Lead
+84,5,ForcefulLead
+84,6,Oct.UnisonLd
+84,7,Unison SawLd
+84,8,Mad Lead
+84,9,CrowdingLead
+84,10,Double Sqr.
+85,0,Charang
+85,1,Wire Lead
+85,2,FB.Charang
+85,3,Fat GR Lead
+85,4,Windy GR Ld
+85,5,Mellow GR Ld
+85,6,GR & Pulse
+85,8,Dist.Lead
+85,9,Acid Guitar1
+85,10,Acid Guitar2
+85,11,Dance Dst.Gt
+85,12,DanceDst.Gt2
+85,16,P5 Sync Lead
+85,17,Fat SyncLead
+85,18,Rock Lead
+85,19,5th DecaSync
+85,20,Dirty Sync
+85,21,DualSyncLead
+85,22,LA Brass Ld
+85,24,JUNO Sub Osc
+85,25,2600 Sub
+85,26,JP8000Fd Osc
+86,0,Solo Vox
+86,1,Solo Vox 2
+86,8,Vox Lead
+86,9,LFO Vox
+86,10,Vox Lead 2
+87,0,5th Saw Wave
+87,1,Big Fives
+87,2,5th Lead
+87,3,5th Ana.Clav
+87,4,5th Pulse
+87,5,JP 5th Saw
+87,6,JP8000 5thFB
+87,8,4th Lead
+88,0,Bass & Lead
+88,1,Big & Raw
+88,2,Fat & Perky
+88,3,JUNO Rave
+88,4,JP8 BsLead 1
+88,5,JP8 BsLead 2
+88,6,SH-5 Bs.Lead
+88,7,Deleyed Lead
+89,0,Fantasia
+89,1,Fantasia 2
+89,2,New Age Pad
+89,3,Bell Heaven
+89,4,Fantasia 3
+89,5,Fantasia 4
+89,6,After D!
+89,7,260HarmPad
+90,0,Warm Pad
+90,1,Thick Matrix
+90,2,Horn Pad
+90,3,Rotary Strng
+90,4,OB Soft Pad
+90,5,Sine Pad
+90,6,OB Soft Pad2
+90,8,Octave Pad
+90,9,Stack Pad
+90,10,Human Pad
+90,11,Sync Brs.Pad
+90,12,Oct.PWM Pad
+90,13,JP Soft Pad
+91,0,Polysynth
+91,1,80's PolySyn
+91,2,Polysynth 2
+91,3,Poly King
+91,4,Super Poly
+91,8,Power Stack
+91,9,Octave Stack
+91,10,Reso Stack
+91,11,Techno Stack
+91,12,Pulse Stack
+91,13,TwinOct.Rave
+91,14,Oct.Rave
+91,15,Happy Synth
+91,16,ForwardSweep
+91,17,ReverseSweep
+91,24,Minor Rave
+92,0,Space Voice
+92,1,Heaven II
+92,2,SC Heaven
+92,3,Itopia
+92,4,Water Space
+92,5,Cold Space
+92,6,Noise Peaker
+92,7,Bamboo Hit
+92,8,Cosmic Voice
+92,9,Auh Vox
+92,10,AuhAuh
+92,11,Vocorderman
+92,12,Holy Voice
+93,0,Bowed Glass
+93,1,SoftBellPad
+93,2,JP8 Sqr Pad
+93,3,7thBelPad
+93,4,Steel Glass
+93,5,Bottle Stack
+94,0,Metal Pad
+94,1,Tine Pad
+94,2,Panner Pad
+94,3,Steel Pad
+94,4,Speciel Rave
+94,5,Metal Pad 2
+95,0,Halo Pad
+95,1,Vox Pad
+95,2,Vox Sweep
+95,8,Horror Pad
+95,9,SynVox Pad
+95,10,SynVox Pad 2
+95,11,Breath&Rise
+95,12,Tears Voice
+96,0,Sweep Pad
+96,1,Polar Pad
+96,2,Ambient BPF
+96,3,Sync Pad
+96,4,Warriors
+96,8,Converge
+96,9,Shwimmer
+96,10,Celestial Pd
+96,11,Bag Sweep
+96,12,Sweep Pipe
+96,13,Sweep Stack
+96,14,Deep Sweep
+96,15,Stray Pad
+97,0,Ice Rain
+97,1,Harmo Rain
+97,2,African wood
+97,3,Anklung Pad
+97,4,Rattle Pad
+97,5,Saw Impulse
+97,6,Strange Str.
+97,7,FastFWD Pad
+97,8,Clavi Pad
+97,9,EP Pad
+97,10,Tambra Pad
+97,11,CP Pad
+98,0,Soundtrack
+98,1,Ancestral
+98,2,Prologue
+98,3,Prologue 2
+98,4,Hols Strings
+98,5,HistoryWave
+98,8,Rave
+99,0,Crystal
+99,1,Syn Mallet
+99,2,Soft Crystal
+99,3,Round Glock
+99,4,Loud Glock
+99,5,GlockenChime
+99,6,Clear Bells
+99,7,ChristmasBel
+99,8,Vibra Bells
+99,9,Digi Bells
+99,10,Music Bell
+99,11,Analog Bell
+99,12,Blow Bell
+99,13,Hyper Bell
+99,16,Choral Bells
+99,17,Air Bells
+99,18,Bell Harp
+99,19,Gamelimba
+99,20,JUNO Bell
+99,21,LP Bell
+99,22,Pizz Bell
+99,23,Bottom Bell
+100,0,Atmosphere
+100,1,Warm Atmos
+100,2,Nylon Harp
+100,3,Harpvox
+100,4,HollowReleas
+100,5,Nylon+Rhodes
+100,6,Ambient Pad
+100,7,Invisible
+100,8,Pulsey Key
+100,9,Noise Piano
+100,10,Heaven Atmos
+100,11,Tambra Atmos
+101,0,Brightness
+101,1,Shining Star
+101,2,OB Stab
+101,3,Brass Star
+101,4,Choir Stab
+101,5,D-50 Retour
+101,6,SouthernWind
+101,7,StmbolicBell
+101,8,Org Bell
+102,0,Goblin
+102,1,Goblinson
+102,2,50's Sci-Fi
+102,3,Abduction
+102,4,Auhbient
+102,5,LFO Pad
+102,6,Random Str
+102,7,Random Pad
+102,8,LowBirds Pad
+102,9,Falling Down
+102,10,LFO RAVE
+102,11,LFO Horror
+102,12,LFO Techno
+102,13,Alternative
+102,14,UFO FX
+102,15,Gargle Man
+102,16,Sweep FX
+102,17,LM Has Come
+102,18,Fallinlnsect
+102,19,LFO Oct.Rave
+102,20,Just Before
+102,21,RND Fl.Chord
+102,22,RandomEnding
+102,23,Random Sine
+102,24,EatingFilter
+102,25,Noise&SawHit
+102,26,Pour Magic
+102,27,DancingDrill
+102,28,Dirty Stack
+102,29,Big Blue
+102,30,Static Hit
+102,31,Atl.Mod.FX
+102,32,Acid Copter
+103,0,Echo Drops
+103,1,Echo Bell
+103,2,Echo Pan
+103,3,Echo Pan 2
+103,4,Big Panner
+103,5,Reso Panner
+103,6,Water Piano
+103,7,Echo SynBrass
+103,8,Pan Sequence
+103,9,Aqua
+103,10,Panning Lead
+103,11,PanningBrass
+104,0,Star Theme
+104,1,Star Theme 2
+104,2,Star Mind
+104,3,Star Dust
+104,4,Rep.Trance
+104,5,Etherality
+104,6,Mystic Pad
+104,8,Dream Pad
+104,9,Silky Pad
+104,10,Dream Pad 2
+104,11,Silky Pad 2
+104,16,New Century
+104,17,7th Atmos.
+104,18,Galaxy Way
+104,19,Rising OSC.
+105,0,Sitar
+105,1,Sitar 2
+105,2,Detune Sitar
+105,3,Sitar 3
+105,4,Sitar/Done
+105,5,Sitar 4
+105,8,Tambra
+105,16,Tamboura
+106,0,Banjo
+106,1,Muted Banjo
+106,8,Rabab
+106,9,San Xian
+106,16,Gopichant
+106,24,Oud
+106,28,Oud+Strings
+106,32,Pi Pa
+107,0,Shamisen
+107,1,Tsugaru
+107,8,Syn Shamisen
+108,0,Koto
+108,1,Gu Zheng
+108,8,Taisho Koto
+108,16,Kanoon
+108,19,Kanoon+Choir
+108,24,Oct Harp
+109,0,Kalimba
+109,8,Sanza
+109,9,Bodhran
+109,10,Bodhran Mute
+110,0,Bagpipe
+110,8,Didgeridoo
+110,9,Uillean Pipe
+110,10,UillnPipe Nm
+110,11,UillnPipe Or
+111,0,Fiddle
+111,8,Er Hu
+111,9,Gao Hu
+112,0,Shanai
+112,1,Shanai 2
+112,8,Pungi
+112,16,Hichiriki
+112,24,Mizmar
+112,32,Suona 1
+112,33,Suona 2
+113,0,Tinkle Bell
+113,8,Bonang
+113,9,Gender
+113,10,Gamelan Gong
+113,11,St.Gamelan
+113,12,Jang Gu
+113,13,Jegogan
+113,14,Jublag
+113,15,Pemade
+113,16,RAMA Cymbal
+113,17,Kajar
+113,18,Kelontuk
+113,19,Kelontuk Mt
+113,20,Kelontuk Sid
+113,21,Kopyak Op
+113,22,Kopyak Mt
+113,23,Ceng Ceng
+113,24,Reyoung
+113,25,Kempur
+113,32,Jngl Crash
+113,40,Crash Menu
+113,41,RideCym Menu
+113,42,RideBell Menu
+114,0,Agogo
+114,8,Atarigane
+114,16,Tambourine
+115,0,Steel Drums
+115,1,Island Mlt
+116,0,Woodblock
+116,8,Castanets
+116,16,Angklung
+116,17,Angkl Rhythm
+116,24,Finger Snaps
+116,32,909 HandClap
+116,40,HandClapMenu
+117,0,Taiko
+117,1,Small Taiko
+117,8,Concert BD
+117,9,ConcertBD Mt
+117,16,Jungle BD
+117,17,Techno BD
+117,18,Bounce
+117,24,KendangWadon
+117,25,Beberongan
+117,26,Pelegongan
+117,27,Dholak 1
+117,28,Dholak 2
+117,32,Jngl BD Roll
+117,40,Kick Menu 1
+117,41,Kick Menu 2
+117,42,Kick Menu 3
+117,43,Kick Menu 4
+118,0,Melo. Tom 1
+118,1,Real Tom
+118,2,Real Tom 2
+118,3,Jazz Tom
+118,4,Brush Tom
+118,8,Melo. Tom 2
+118,9,Rock Tom
+118,16,Rash SD
+118,17,House SD
+118,18,Jungle SD
+118,19,909 SD
+118,24,Jngl SD Roll
+118,40,SD Menu 1
+118,41,SD Menu 2
+118,42,SD Menu 3
+118,43,SD Menu 4
+118,44,SD Menu 5
+119,0,Synth Drum
+119,8,808 Tom
+119,9,Elec Perc
+119,10,Sine Perc.
+119,11,606 Tom
+119,12,909 Tom
+119,13,606 Dist.Tom
+120,0,Reverse Cym.
+120,1,Reverse Cym2
+120,2,Reverse Cym3
+120,3,Reveree Cym4
+120,8,Rev.Snare 1
+120,9,Rev.Snare 2
+120,16,Rev.Kick 1
+120,17,Rev.ConBD
+120,24,Rev.Tom 1
+120,25,Rev.Tom 2
+120,26,Rev.Tom 3
+120,27,Rev.Tom 4
+120,40,Rev.SD Menu1
+120,41,Rev.SD Menu2
+120,42,Rev.SD Menu3
+120,43,Rev.BD Menu1
+120,44,Rev.BD Menu2
+120,45,Rev.BD Menu3
+120,46,Rev.ClapMenu
+121,0,Gt.FretNoise
+121,1,Gt.Cut Noise
+121,2,String Slap
+121,3,Gt.CutNoise2
+121,4,Dist.CutNoiz
+121,5,Bass Slide
+121,6,Pick Scrape
+121,8,Gt. FX Menu
+121,9,Bartok Pizz.
+121,10,Guitar Slap
+121,11,Chord Stroke
+121,12,Biwa Stroke
+121,13,Biwa Tremolo
+121,16,A.Bs.Nz Menu
+121,17,D.Gt.Nz Menu
+121,18,E.Gt.NzMenu1
+121,19,E.Gt.NzMenu2
+121,20,G.StrokeMenu
+121,21,Gt.SlideMenu
+121,22,A.Bs.Mute Nz
+121,23,A.Bs.TouchNz
+121,24,A.Bs.AtackNz
+121,25,TC Up Nz
+121,26,TC DownMt.Nz
+121,27,TC UpMt.Nz
+121,28,TC Dowm Nz
+121,29,DstGT.Up Nz
+121,30,DstGT.DwnNz1
+121,31,DstGT.DwnNz2
+121,32,DstGT.MuteNz
+121,34,Gt.StrokeNz5
+121,35,StlGt.SldNz1
+121,36,StlGt.SldNz2
+121,37,StlGt.SldNz3
+121,38,StlGt.SldNz4
+121,39,Gt.StrokeNz1
+121,40,Gt.StrokeNz2
+121,41,Gt.StrokeNz3
+121,42,Gt.StrokeNz4
+122,0,Breath Noise
+122,1,Fl.Key Click
+122,2,Brth Nz Menu
+122,3,Fl.Breath 1
+122,4,Fl.Breath 2
+122,5,Fl.Breath 3
+122,6,Vox Breath 1
+122,7,Vox Breath 2
+122,8,Trombone Nz
+122,9,Trumpet Nz
+123,0,Seashore
+123,1,Rain
+123,2,Thunder
+123,3,Wind
+123,4,Stream
+123,5,Bubble
+123,6,Wind 2
+123,7,Cricket
+123,16,Pink Noise
+123,17,White Noise
+124,0,Bird
+124,1,Dog
+124,2,Horse-Gallop
+124,3,Bird 2
+124,4,Kitty
+124,5,Growl
+124,6,Growl
+124,7,Fancy Animal
+124,8,Seal
+125,0,Telephone 1
+125,1,Telephone 2
+125,2,DoorCreaking
+125,3,Door
+125,4,Scratch
+125,5,Wind Chimes
+125,7,Scratch 2
+125,8,ScratchKey
+125,9,TapeRewind
+125,10,Phono Noise
+125,11,MC-500 Beep
+125,12,Scratch 3
+125,13,Scratch 4
+125,14,Scratch 5
+125,15,Scratch 6
+125,16,Scratch 7
+126,0,Helicopter
+126,1,Car-Engine
+126,2,Car-Stop
+126,3,Car-Pass
+126,4,Car-Crash
+126,5,Siren
+126,6,Train
+126,7,Jetplane
+126,8,Starship
+126,9,Burst Noise
+126,10,Calculating
+126,11,Perc. Bang
+126,12,Burner
+126,13,Glass & Glam
+126,14,Ice Ring
+126,15,Over Blow
+126,16,Crack Bottle
+126,17,Pour Bottle
+126,18,Soda
+126,19,Open CD Tray
+126,20,Audio Switch
+126,21,Key Typing
+126,22,SL 1
+126,23,SL 2
+126,24,Car Engine 2
+126,25,Car Horn
+126,26,Boeeeen
+126,27,R.Crossing
+126,28,Compresser
+126,29,Sword Boom!
+126,30,Sword Cross
+126,31,Stab! 1
+126,32,Stab! 2
+127,0,Applause
+127,1,Laughing
+127,2,Screaming
+127,3,Punch
+127,4,Heart Beat
+127,5,Footsteps
+127,6,Applause 2
+127,7,Small Club
+127,8,ApplauseWave
+127,9,BadyLaughing
+127,16,Voice One
+127,17,Voice Two
+127,18,Voice Three
+127,19,Voice Tah
+127,20,Voice Whey
+127,22,Voice Kikit
+127,23,Voice ComeOn
+127,24,Voice Aou
+127,25,Voice Oou
+127,26,Voice Hie
+128,0,Gun Shot
+128,1,Machine Gun
+128,2,Lasergun
+128,3,Explosion
+128,4,Eruption
+128,5,Big Shot
+128,6,Explosion 2
